@@ -1,4 +1,4 @@
-# Problem-solving
+# SQL-Problem-solving
 
 sql 문제 풀이 코드를 저장하는 곳입니다.<br>
 매일 한 문제씩 푸는 것을 목표로 합니다.
