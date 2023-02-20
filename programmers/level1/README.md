@@ -5,6 +5,7 @@
 |59035|[역순 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59036)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level1/src/P59036.sql)|
 |59036|[아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level1/src/P59036.sql)|
 |59037|[어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level1/src/P59037.sql)|
+|59039|[이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level1/src/P59039.sql)|
 |59403|[동물의 아이디와 이름](https://school.programmers.co.kr/learn/courses/30/lessons/59403)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level1/src/P59403.sql)|
 |59404|[여러 기준으로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59404)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level1/src/P59404.sql)|
 |59405|[상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level1/src/P59405.sql)|
