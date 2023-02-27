@@ -11,6 +11,7 @@
 |59404|[여러 기준으로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59404)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level1/src/P59404.sql)|
 |59405|[상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level1/src/P59405.sql)|
 |59407|[이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level1/src/P59407.sql)|
+|59415|[최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level1/src/P59415.sql)|
 |131112|[강원도에 위치한 생산공장 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131112)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level1/src/P131112.sql)|
 |131114|[경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level1/src/P131114.sql)|
 |131528|[나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level1/src/P131528.sql)|
