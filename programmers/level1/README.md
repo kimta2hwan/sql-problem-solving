@@ -20,4 +20,5 @@
 |132201|[12세 이하인 여자 환자 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132201)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level1/src/P132201.sql)|
 |132203|[흉부외과 또는 일반외과 의사 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132203)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level1/src/P132203.sql)|
 |133024|[인기있는 아이스크림](https://school.programmers.co.kr/learn/courses/30/lessons/132203)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level1/src/P132203.sql)|
+|151136|[평균 일일 대여 요금 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151136)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level1/src/P151136.sql)|
 |151138|[자동차 대여 기록에서 장기/단기 대여 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/151138)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level1/src/P151138.sql)|
