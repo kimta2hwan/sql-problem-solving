@@ -7,3 +7,4 @@
 |59047|[이름에 el이 들어가는 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59047)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level2/src/P59047.sql)|
 |59406|[동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level2/src/P59406.sql)|
 |59408|[중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level2/src/P59408.sql)|
+|59410|[NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410)|[코드 보기](https://github.com/kimta2hwan/sql-problem-solving/blob/main/programmers/level2/src/P59410.sql)|
